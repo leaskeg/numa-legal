@@ -1,3 +1,5 @@
-# Numa website
+# Moved
 
-The website for Numa: Baby Sleep Sounds, plus its Privacy Policy, Terms of Use and Safety pages, served with GitHub Pages at https://leaskeg.github.io/numa-legal/
+Numa's website and legal pages now live at https://numasounds.github.io (repo: https://github.com/numasounds/numasounds.github.io).
+
+The pages here forward to the new address so existing links keep working.
